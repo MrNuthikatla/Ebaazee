@@ -37,7 +37,7 @@ A full-stack auction web application where **sellers** can post products, **buye
 | Database   | PostgreSQL         |
 | Auth       | JWT                |
 | Styling    | CSS Modules        |
-| Build Tool | Gradle             |
+| Build Tool | Maven              |
 
 ---
 
